@@ -27,7 +27,7 @@ nav {
   background: #08306b;
   padding: 10px 40px;
   display: flex;
-  gap: 200px;
+  gap: 150px;
   justify-content: center;
 }
 nav a {
